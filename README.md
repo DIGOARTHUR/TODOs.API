@@ -80,6 +80,15 @@ https://simpleicons.org/?q=react
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
+  | Métodos |                 Conceito                 |
+|:-------:|:----------------------------------------:|
+|   GET   | Buscar uma informação dentro do servidor |
+|   POST  |    Inserir uma informação no servidor    |
+|   PUT   |    Alterar uma informação no servidor    |
+|  PATCH  |     Alterar uma informação específica    |
+| DELETE  | Deletar uma informação no servidor       |
+  
+  
 <!--
 * `Array e Objeto JS` (uso do map)
 * `CSS` (Grid e FlexBox)
