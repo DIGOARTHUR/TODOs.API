@@ -112,7 +112,7 @@ https://simpleicons.org/?q=react
 1. Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/Task.TODO.git
+git clone https://github.com/DIGOARTHUR/-NODEJS-Chapter01-Desafio-01---Conceitos-do-NodeJS.git
 ```
 
 2. Instalar dependências
