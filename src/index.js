@@ -23,7 +23,7 @@ function checksExistsUserAccount(request, response, next) {
   return next();
 }
 
-app.post('/users', (request, response) => {
+app.post('/newUsers', (request, response) => {
   const { name, username } = request.body;
 
   const userExists = users.find(user => user.username === username);
@@ -45,13 +45,13 @@ app.post('/users', (request, response) => {
 
 });
 
-app.get('/todos', checksExistsUserAccount, (request, response) => {
+app.get('/allTodos', checksExistsUserAccount, (request, response) => {
   const {user} = request;
 
   return response.json(user.todos);
 });
 
-app.post('/todos', checksExistsUserAccount, (request, response) => {
+app.post('/InsertTodos', checksExistsUserAccount, (request, response) => {
   const {user} = request;
   const {title, deadline} = request.body;
 
@@ -59,7 +59,7 @@ app.post('/todos', checksExistsUserAccount, (request, response) => {
     id: uuidv4(), // precisa ser um uuid
     title,
     done: false, 
-    deadline: new Date(deadline), 
+    deadline: new Date(deadline+" 00:00"), 
     created_at: new Date()
   }
 
@@ -68,7 +68,7 @@ app.post('/todos', checksExistsUserAccount, (request, response) => {
   return response.status(201).json(todo);
 });
 
-app.put('/todos/:id', checksExistsUserAccount, (request, response) => {
+app.put('/UpdateTodos/:id', checksExistsUserAccount, (request, response) => {
   const {user} = request;
   const {title, deadline} = request.body;
   const {id} = request.params;
@@ -84,7 +84,8 @@ app.put('/todos/:id', checksExistsUserAccount, (request, response) => {
   return response.json(todo);
 });
 
-app.patch('/todos/:id/done', checksExistsUserAccount, (request, response) => {
+
+app.patch('/StatusTodos/:id/done', checksExistsUserAccount, (request, response) => {
   const {user} = request;
   const {id} = request.params;
 
@@ -110,7 +111,7 @@ app.delete('/todos/:id', checksExistsUserAccount, (request, response) => {
 
   user.todos.splice(todoIndex, 1);
 
-  return response.status(204).send();
+  return response.status(204).json({message:"TODO removido com sucesso"});
 
 });
 
