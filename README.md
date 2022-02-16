@@ -66,22 +66,26 @@ https://simpleicons.org/?q=react
   
   
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> **** 
+> TODOs.API é uma aplicação backend utilizada para cadastrar TODOs vinculado a alguns dados do usuário. 
 
 
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png"> Endpoints<!---write here : demonstration of the application layout.  -->
 
-| Requisição | URI |
-|------------|-----|
-|        Get |     |
-|            |     |
-|            |     |
-|            |     |
+| Requisição | endPoints                                  |
+|------------|--------------------------------------------|
+|    PATCH   | http://localhost:3333/StatusTodos/:id/done |
+|     DEL    | http://localhost:3333/todos/:id            |
+|     PUT    | http://localhost:3333/UpdateTodos/:id      |
+|     GET    | http://localhost:3333/allTodos             |
+|    POST    | http://localhost:3333/InsertTodos          |
+|    POST    | http://localhost:3333/newUsers             |
 
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
+  
+  
   | Métodos |                 Conceito                 |
 |:-------:|:----------------------------------------:|
 |   GET   | Buscar uma informação dentro do servidor |
@@ -123,13 +127,13 @@ https://simpleicons.org/?q=react
 1. Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/-NODEJS-Chapter01-Desafio-01---Conceitos-do-NodeJS.git
+git clone https://github.com/DIGOARTHUR/TODOs.API.git
 ```
 
 2. Instalar dependências
 
 ```
-yarn install
+yarn ou npm
 ```
 
 3. Rodar aplicativo
@@ -137,9 +141,12 @@ yarn install
 ```
 yarn dev
 ```
+✅ A sua API já está rodando!
+  
+4. Agora acesse o software  [`Insomnia`](https://insomnia.rest/download) e faça o import do arquivo JSON que se encontra neste repositório para o teste das requisições.
 
-4. Acesse http://localhost:3000/ e navegue pelo site
-
+  ---
+  
 :warning: 5. Trocar URL do repositorio remoto (caso necessário)
 
   5.1 Ver qual o repositorio atual
@@ -156,7 +163,8 @@ git remote -v
 ```
   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
-[@Rocketseat](https://github.com/Rocketseat) 
+Convenhamos que o FrontEnd não tem graça sem a iteração com o backend. No IGNITE resolvi focar nessas duas trilhas e este é o meu primeiro Desafio entregue em NodeJS. A [@Rocketseat](https://github.com/Rocketseat) sempre exepcional na didática de cada ferramenta. 
  
- <a href="https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05">Notion</a>.
+ [Notion<](https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05) 
+
  
