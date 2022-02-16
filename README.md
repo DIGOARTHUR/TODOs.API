@@ -72,6 +72,7 @@ https://simpleicons.org/?q=react
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png"> Endpoints<!---write here : demonstration of the application layout.  -->
 
+<div align="center">  
 | Requisição | endPoints                                  |
 |------------|--------------------------------------------|
 |    PATCH   | http://localhost:3333/StatusTodos/:id/done |
@@ -80,13 +81,17 @@ https://simpleicons.org/?q=react
 |     GET    | http://localhost:3333/allTodos             |
 |    POST    | http://localhost:3333/InsertTodos          |
 |    POST    | http://localhost:3333/newUsers             |
-
+</div>  
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
+* `NodeJS` : soube o que é este software que possibilita o uso do JS fora dos Browsers.
+* `Conceito API Rest` : conheci um pouco sobre este tipo de arquitetura de software utilizado para fazer requisições HTTP.
+* `Métodos de Requisição`: fiquei por dentro do que se trata estes métodos, seguindo a tabela abaixo  
   
+<div align="center">  
   
-  | Métodos |                 Conceito                 |
+| Métodos |                 Conceito                 |
 |:-------:|:----------------------------------------:|
 |   GET   | Buscar uma informação dentro do servidor |
 |   POST  |    Inserir uma informação no servidor    |
@@ -94,6 +99,10 @@ https://simpleicons.org/?q=react
 |  PATCH  |     Alterar uma informação específica    |
 | DELETE  | Deletar uma informação no servidor       |
   
+ </div>
+   
+* `Tipos de passagens de parâmetros`: Body, Query , Params e Headers.
+* `Insomnia`: conheci esta ferramenta sensacional para testar as endpoints construídas na aplicação Back-End.
   
 <!--
 * `Array e Objeto JS` (uso do map)
@@ -143,7 +152,7 @@ yarn dev
 ```
 ✅ A sua API já está rodando!
   
-4. Agora acesse o software  [`Insomnia`](https://insomnia.rest/download) e faça o import do arquivo JSON que se encontra neste repositório para o teste das requisições.
+4. Agora acesse o software  [`Insomnia`](https://insomnia.rest/download) e faça o import do arquivo JSON, *Insomnia_EndPoints.json*, que se encontra neste repositório para o teste das requisições.
 
   ---
   
@@ -165,6 +174,6 @@ git remote -v
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
 Convenhamos que o FrontEnd não tem graça sem a iteração com o backend. No IGNITE resolvi focar nessas duas trilhas e este é o meu primeiro Desafio entregue em NodeJS. A [@Rocketseat](https://github.com/Rocketseat) sempre exepcional na didática de cada ferramenta. 
  
- [Notion<](https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05) 
+<!--[Notion](https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05) -->
 
  
