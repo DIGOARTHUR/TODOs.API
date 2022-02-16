@@ -55,7 +55,7 @@ https://simpleicons.org/?q=react
 
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/TODOs.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/TODOs.API#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/TODOs.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/TODOs.API#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/TODOs.API#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/TODOs.API#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -70,11 +70,11 @@ https://simpleicons.org/?q=react
 
 
 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png"> Endpoints<!---write here : demonstration of the application layout.  -->
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/154178428-61812598-6d7e-42a6-a7da-2c6c581e6ebe.png"> Endpoints<!---write here : demonstration of the application layout.  -->
 
 <div align="center">  
   
-| Requisição | endPoints                                  |
+| Requisição | Endpoints                                 |
 |------------|--------------------------------------------|
 |    PATCH   | http://localhost:3333/StatusTodos/:id/done |
 |     DEL    | http://localhost:3333/todos/:id            |
