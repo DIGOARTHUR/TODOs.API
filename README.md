@@ -73,6 +73,7 @@ https://simpleicons.org/?q=react
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png"> Endpoints<!---write here : demonstration of the application layout.  -->
 
 <div align="center">  
+  
 | Requisição | endPoints                                  |
 |------------|--------------------------------------------|
 |    PATCH   | http://localhost:3333/StatusTodos/:id/done |
@@ -81,6 +82,7 @@ https://simpleicons.org/?q=react
 |     GET    | http://localhost:3333/allTodos             |
 |    POST    | http://localhost:3333/InsertTodos          |
 |    POST    | http://localhost:3333/newUsers             |
+  
 </div>  
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
