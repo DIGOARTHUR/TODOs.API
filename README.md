@@ -13,8 +13,8 @@ https://simpleicons.org/?q=react
   <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/153734743-7d5d74b5-15b5-4aab-b6a0-d82ad725d94a.png">
 </p> 
 
-![GitHub](https://img.shields.io/github/license/digoarthur/)
-![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/)
+![GitHub](https://img.shields.io/github/license/DIGOARTHUR/TODOs.API)
+![GitHub last commit](https://img.shields.io/github/last-commit/DIGOARTHUR/TODOs.API)
 
 
 #### Stacks:
