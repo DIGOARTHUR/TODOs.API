@@ -32,12 +32,13 @@ https://simpleicons.org/?q=react
  <!------------------------------------Applied Concepts-->
  
 <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
- <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Find-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-findIndex-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href="https://devdigoarthur.notion.site/math-32c8febe43b342a587db7eec61217ece"> ![Alt ou título da imagem](https://img.shields.io/badge/-POST-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://devdigoarthur.notion.site/math-32c8febe43b342a587db7eec61217ece"> ![Alt ou título da imagem](https://img.shields.io/badge/-GET-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://devdigoarthur.notion.site/math-32c8febe43b342a587db7eec61217ece"> ![Alt ou título da imagem](https://img.shields.io/badge/-PUT-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://devdigoarthur.notion.site/math-32c8febe43b342a587db7eec61217ece"> ![Alt ou título da imagem](https://img.shields.io/badge/-DELETE-/?logo=Node.js&logoColor=white&color=green)<a/>
+ <a href="https://devdigoarthur.notion.site/Find-15db7431a72b4731af85671b65c88601"> ![Alt ou título da imagem](https://img.shields.io/badge/-Find-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+<a href="https://devdigoarthur.notion.site/FindIndex-e70f496dc02e45c5a47ff3178dfc862e"> ![Alt ou título da imagem](https://img.shields.io/badge/-findIndex-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#2b3f574526614c19957987c3064cde80"> ![Alt ou título da imagem](https://img.shields.io/badge/-POST-/?logo=Node.js&logoColor=white&color=green)<a/>
+<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#97dfbed0bdd84485a2703114f7949b7f"> ![Alt ou título da imagem](https://img.shields.io/badge/-GET-/?logo=Node.js&logoColor=white&color=green)<a/>
+<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#130542c3c1264442a6e3ede5c0bf150e"> ![Alt ou título da imagem](https://img.shields.io/badge/-PUT-/?logo=Node.js&logoColor=white&color=green)<a/>
+<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#155cd90973c243a0ae98054403e1c037"> ![Alt ou título da imagem](https://img.shields.io/badge/-DELETE-/?logo=Node.js&logoColor=white&color=green)<a/>
+  <a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#eeb9e721230a4157aa26f588c75fb549"> ![Alt ou título da imagem](https://img.shields.io/badge/-PATCH-/?logo=Node.js&logoColor=white&color=green)<a/>
    
 
 
