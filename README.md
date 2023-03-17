@@ -22,7 +22,7 @@ https://simpleicons.org/?q=react
 <p align="left">
 
 
- <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
+ <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762520-8226f647-a814-4723-8e6d-ed0334550838.svg"><a/>
   <a href="https://nodejs.org/en/"><img  alt="NodeJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/225148464-81734ea0-e787-4397-bd49-312264335a58.svg"><a/>
   
 
@@ -95,8 +95,7 @@ https://simpleicons.org/?q=react
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
 
 ### Lógica 
-  <a href="https://www.typescriptlang.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
-   * [`TypeScript`](https://www.typescriptlang.org) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
+<a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
       * [`map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
        * [`findIndex`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)(Método que filtra uma lista, trazendo o indice do primeiro elemento que satisfaz a condição.)
        * [`find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)(Método que retorna o primeiro elemento que satisfação a condição.)
