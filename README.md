@@ -97,9 +97,9 @@ https://simpleicons.org/?q=react
 ### Lógica 
   <a href="https://www.typescriptlang.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
    * [`TypeScript`](https://www.typescriptlang.org) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
-    * [`map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
-   * [`findIndex`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)(Método que filtra uma lista, trazendo o indice do primeiro elemento que satisfaz a condição.)
-   * [`find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)(Método que retorna o primeiro elemento que satisfação a condição.)
+      * [`map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
+       * [`findIndex`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)(Método que filtra uma lista, trazendo o indice do primeiro elemento que satisfaz a condição.)
+       * [`find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)(Método que retorna o primeiro elemento que satisfação a condição.)
 
  ### Framework & Libs
    
