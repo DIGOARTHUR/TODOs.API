@@ -10,7 +10,7 @@ https://simpleicons.org/?q=react
 -->
 
 <p align="center">
-  <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/153734743-7d5d74b5-15b5-4aab-b6a0-d82ad725d94a.png">
+  <img  alt="skills"   src="https://user-images.githubusercontent.com/59892368/153734743-7d5d74b5-15b5-4aab-b6a0-d82ad725d94a.png">
 </p> 
 
 ![GitHub](https://img.shields.io/github/license/DIGOARTHUR/TODOs.API)
@@ -18,28 +18,27 @@ https://simpleicons.org/?q=react
 
 
 #### Stacks:
- <!------------------------------------Tasks-->
+ <!------------------------------------STACKS-->
 <p align="left">
 
-  <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
-  <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>
-  <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
-  <a href="https://nodejs.org/en/"><img  alt="NodeJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734840-d6c26811-ed86-47b9-bb3a-154e9fa56190.svg"><a/>
-   <a href="https://insomnia.rest/download"><img  alt="Insominia"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"><a/>
+
+ <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
+  <a href="https://nodejs.org/en/"><img  alt="NodeJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/225148464-81734ea0-e787-4397-bd49-312264335a58.svg"><a/>
+  
+
+</p>
+
+
+ <!------------------------------------TOOLS-->
+ #### Tools:
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
+  <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>   <a href="https://insomnia.rest/download"><img  alt="Insominia"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"><a/>
+
    
 
 </p>
- <!------------------------------------Applied Concepts-->
- 
-<a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
- <a href="https://devdigoarthur.notion.site/Find-15db7431a72b4731af85671b65c88601"> ![Alt ou título da imagem](https://img.shields.io/badge/-Find-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href="https://devdigoarthur.notion.site/FindIndex-e70f496dc02e45c5a47ff3178dfc862e"> ![Alt ou título da imagem](https://img.shields.io/badge/-findIndex-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#2b3f574526614c19957987c3064cde80"> ![Alt ou título da imagem](https://img.shields.io/badge/-POST-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#97dfbed0bdd84485a2703114f7949b7f"> ![Alt ou título da imagem](https://img.shields.io/badge/-GET-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#130542c3c1264442a6e3ede5c0bf150e"> ![Alt ou título da imagem](https://img.shields.io/badge/-PUT-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#155cd90973c243a0ae98054403e1c037"> ![Alt ou título da imagem](https://img.shields.io/badge/-DELETE-/?logo=Node.js&logoColor=white&color=green)<a/>
-  <a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#eeb9e721230a4157aa26f588c75fb549"> ![Alt ou título da imagem](https://img.shields.io/badge/-PATCH-/?logo=Node.js&logoColor=white&color=green)<a/>
-   
+
 
 
 
@@ -57,7 +56,7 @@ https://simpleicons.org/?q=react
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/TODOs.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/TODOs.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/TODOs.API#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/TODOs.API#-stacks-">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/TODOs.API#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/TODOs.API#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p> 
@@ -90,51 +89,34 @@ https://simpleicons.org/?q=react
   
 </div>  
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
-* `NodeJS` : soube o que é este software que possibilita o uso do JS fora dos Browsers.
-* `Conceito API Rest` : conheci um pouco sobre este tipo de arquitetura de software utilizado para fazer requisições HTTP.
-* `Métodos de Requisição`: fiquei por dentro do que se trata estes métodos, seguindo a tabela abaixo  
-  
-<div align="center">  
-  
-| Métodos |                 Conceito                 |
-|:-------:|:----------------------------------------:|
-|   GET   | Buscar uma informação dentro do servidor |
-|   POST  |    Inserir uma informação no servidor    |
-|   PUT   |    Alterar uma informação no servidor    |
-|  PATCH  |     Alterar uma informação específica    |
-| DELETE  | Deletar uma informação no servidor       |
-  
- </div>
+<!------------------------------------LIST: STACKS , LIBS & TOOLS-->
+
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
+
+### Lógica 
+  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
+   * [`TypeScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
+     * [`Class`](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/) (Classes em JavaScript provêm uma maneira mais simples e clara de criar objetos e lidar com herança)
+     * [`Find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)(Método usado para encontrar um elemento buscado. Ele retorna o primeiro elemento da array identificado como True.)
+     * [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) ((Faz a transferencia das propriedades de um Objeto para outro. Uma junção. )
+
+ ### Framework & Libs
    
-* `Tipos de passagens de parâmetros`: Body, Query , Params e Headers.
-* `Insomnia`: conheci esta ferramenta sensacional para testar as endpoints construídas na aplicação Back-End.
+<a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-NodeJS-/?logo=Node.JS&logoColor=white&color=green)<a/> 
+  * [`Express`](https://www.npmjs.com/package/express) (Framework para Nodejs)
+
+### Gerenciador / Pacotes
+<a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
+   * [`express`](https://www.npmjs.com/package/express) (Framework para Node.js)
+   * [`ts-node`](https://www.npmjs.com/package/ts-node) (Biblioteca usada para aplicar o TypeScript)
+   * [`uuid`](https://www.npmjs.com/package/uuid) (Biblioteca usada para gerar identificador único universal)
   
-<!--
-* `Array e Objeto JS` (uso do map)
-* `CSS` (Grid e FlexBox)
-* React
-  * [`Propriedade`](https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7) (Aplicar passagem de propriedades nos Componentes)
-  * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
-  * [`Estado`](https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67) (UseState() - Controle de mudança de dados)
-  * [`Router`](https://devdigoarthur.notion.site/Router-be30e083aad146eea64c89258434a024) ((Navegação pela a aplicação))
-  -->
+  ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/>    
   
-
-
-
-
-
-
-<!--
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Observações
-
-:white_check_mark: FrontEnd
--->
-
-
-
  
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
  
